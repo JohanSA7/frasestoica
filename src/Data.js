@@ -194,7 +194,6 @@ export const frasesArray = [
     { id:194, frase: "No actúes como si fueras a vivir por diez mil años. La muerte te acecha. Mientras vivas, mientras sea posible, sé bueno.", autor: "Marco Aurelio" },
     { id:195, frase: "Detente particularmente en cada una de las acciones que haces y pregúntate si la muerte es terrible porque te priva de eso.", autor: "Marco Aurelio" },
     { id:196, frase: "Del mismo modo que los médicos siempre tienen a mano los instrumentos de hierro para las curas de urgencia, así también, conserva tú a punto los principios fundamentales para conocer las cosas divinas y las humanas.", autor: "Marco Aurelio" },
-    { id:197, frase: "La vida no es buena ni mala, sino un lugar para el bien y el mal.", autor: "Marco Aurelio" },
     
   ];
 

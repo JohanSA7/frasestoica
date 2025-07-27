@@ -48,7 +48,7 @@ const FraseCard = () => {
           <div className="relative bg-gray-800 shadow-lg rounded-2xl 
             w-full min-w-[90vw] sm:min-w-[600px] lg:min-w-[800px]
             h-[60vh] sm:h-[60vh] lg:h-[60vh]
-            p-6 sm:p-10 mb-4 mt-0
+            p-6 sm:p-10 mb-6 mt-0
             overflow-hidden transition-all duration-300 ease-in-out flex flex-col justify-center">
             
             <FaQuoteLeft className="absolute text-gray-300 dark:text-gray-600 text-6xl sm:text-8xl top-6 left-6 opacity-20 z-0" />

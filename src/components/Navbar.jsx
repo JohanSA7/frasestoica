@@ -10,7 +10,7 @@ const Navbar = () => {
             </a>
         </div>
         <div>
-            <h1 className="font-thin text-3xl ">Frase Estoica</h1>
+            <h1 className="font-thin text-3xl ">Frasestoica</h1>
         </div>
         <div className="m-8 flex items-center justify-center gap-2 text-2xl">
           <a href="https://github.com/JohanSA7/frasestoica"
